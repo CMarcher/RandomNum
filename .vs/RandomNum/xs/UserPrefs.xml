@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{4F7EEE3C-0587-4E25-B2EC-7737C2D1F22A}|Default">
+﻿<Properties StartupConfiguration="{4F7EEE3C-0587-4E25-B2EC-7737C2D1F22A}|Default" GitUserInfo="UsingGIT">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="RandomNum/RandomNumberGenerator.cs">
     <Files>
