@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4F7EEE3C-0587-4E25-B2EC-7737C2D1F22A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RandomNum/RandomNumberGenerator.cs">
+    <Files>
+      <File FileName="RandomNum/Program.cs" Line="17" Column="49" />
+      <File FileName="RandomNum/RandomNumberGenerator.cs" Line="42" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RandomNum" expanded="True">
+            <Node name="RandomNum" expanded="True">
+              <Node name="RandomNumberGenerator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RandomNum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>

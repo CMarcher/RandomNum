@@ -1,0 +1,16 @@
+/Users/calebarcher/Projects/RandomNum/RandomNum/bin/Debug/net5.0/RandomNum.deps.json
+/Users/calebarcher/Projects/RandomNum/RandomNum/bin/Debug/net5.0/RandomNum.runtimeconfig.json
+/Users/calebarcher/Projects/RandomNum/RandomNum/bin/Debug/net5.0/RandomNum.runtimeconfig.dev.json
+/Users/calebarcher/Projects/RandomNum/RandomNum/bin/Debug/net5.0/RandomNum.dll
+/Users/calebarcher/Projects/RandomNum/RandomNum/bin/Debug/net5.0/RandomNum.pdb
+/Users/calebarcher/Projects/RandomNum/RandomNum/obj/Debug/net5.0/RandomNum.csproj.AssemblyReference.cache
+/Users/calebarcher/Projects/RandomNum/RandomNum/obj/Debug/net5.0/RandomNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calebarcher/Projects/RandomNum/RandomNum/obj/Debug/net5.0/RandomNum.AssemblyInfoInputs.cache
+/Users/calebarcher/Projects/RandomNum/RandomNum/obj/Debug/net5.0/RandomNum.AssemblyInfo.cs
+/Users/calebarcher/Projects/RandomNum/RandomNum/obj/Debug/net5.0/RandomNum.csproj.CoreCompileInputs.cache
+/Users/calebarcher/Projects/RandomNum/RandomNum/obj/Debug/net5.0/RandomNum.dll
+/Users/calebarcher/Projects/RandomNum/RandomNum/obj/Debug/net5.0/ref/RandomNum.dll
+/Users/calebarcher/Projects/RandomNum/RandomNum/obj/Debug/net5.0/RandomNum.pdb
+/Users/calebarcher/Projects/RandomNum/RandomNum/obj/Debug/net5.0/RandomNum.genruntimeconfig.cache
+/Users/calebarcher/Projects/RandomNum/RandomNum/bin/Debug/net5.0/RandomNum
+/Users/calebarcher/Projects/RandomNum/RandomNum/obj/Debug/net5.0/refint/RandomNum.dll

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/calebarcher/.dotnet/store/|arch|/|tfm|",
+      "/Users/calebarcher/.nuget/packages"
+    ]
+  }
+}
